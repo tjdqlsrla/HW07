@@ -1,0 +1,12 @@
+/.vs/
+/Binaries/
+/Config/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+*.vsconfig
+*.uproject
+/Content/*
+!/Content/Blueprints/
+!/Content/Maps/
+!/Content/Material/
